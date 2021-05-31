@@ -45,8 +45,8 @@ main {
 img {
   display: block;
   border-radius:10px;
-  max-width: 500px;
-  max-height:40vh;
+  max-width: 40vw;
+  max-height: 500px;
   align-content: center;
   margin-left: auto;
   margin-right: auto;
