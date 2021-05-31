@@ -28,7 +28,7 @@ header, footer {
 }/* padding req */
 
 body {
-  min-width: 60vw;
+  min-width: 50vw;
   font-family: 'Tahoma, Segoe UI', Geneva, Verdana, sans-serif; /*Font family requirement*/
   text-align: justify;
   margin-left: 20vw;
