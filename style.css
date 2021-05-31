@@ -45,11 +45,11 @@ main {
 img {
   display: block;
   border-radius:10px;
-  width:40vw;
+  height: 40vh;
   align-content: center;
   margin-left: auto;
   margin-right: auto;
-}
+}/* height req */
 
 a {
   font-weight: bold;
@@ -64,6 +64,6 @@ a:active{color: #ca9f02;}
 hr {
   height:solid 1px;
   color:#fdc90d;
-}/* height req */
+}
 
 /* comments req */
