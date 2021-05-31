@@ -1,13 +1,13 @@
 html {
   background-color: #13073A;
-}
+} /* background requirement */
 
 h1, h2, h3 {
   text-align: center;
   color: #e0e0e0;
-}
+} /* color req */
 
-h1 {font-size: x-large}
+h1 {font-size: x-large} /* font-size req */
 
 h2 {font-size: large}
 
@@ -25,15 +25,15 @@ header, footer {
   padding: 10px;
   border-style: solid;
   border-color: #fdc90d;
-}
+}/* padding req */
 
 body {
   min-width: 60vw;
-  font-family: 'Tahoma, Segoe UI', Geneva, Verdana, sans-serif;
+  font-family: 'Tahoma, Segoe UI', Geneva, Verdana, sans-serif; /*Font family requirement*/
   text-align: justify;
   margin-left: 20vw;
   margin-right: 20vw;
-}
+} /* font-family req */ /* margin req */ /* text-align req */
 
 main {
   padding-top: 10px;
@@ -56,11 +56,14 @@ a {
   text-decoration: none;
 }
 
-a:link {color: #fdc90d;}
+a:link {color: #fdc90d;} /* pseudo-class req */
 a:visited {color: #f2be02;}
-a:hover {color:#fdd235;}
-a:active{color:#ca9f02;}
+a:hover {color: #fdd235;}
+a:active{color: #ca9f02;}
 
 hr {
+  height:solid 1px;
   color:#fdc90d;
-}
+}/* height req */
+
+/* comments req */
