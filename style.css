@@ -30,7 +30,7 @@ header, footer {
 body {
   min-width: 50vw;
   font-family: 'Tahoma, Segoe UI', Geneva, Verdana, sans-serif; /*Font family requirement*/
-  text-align: justify;
+  text-align: left;
   margin-left: 20vw;
   margin-right: 20vw;
 } /* font-family req */ /* margin req */ /* text-align req */
